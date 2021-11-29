@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaginaliz
 - 👀 I’m interested in programming and reading/
 - 🌱 I’m currently learning QA and front-end
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on IT-companies and smart peoples
 - 📫 How to reach me ...
 
 <!---
